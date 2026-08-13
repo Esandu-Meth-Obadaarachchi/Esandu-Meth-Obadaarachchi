@@ -1,5 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Esandu%20Obadaarachchi&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20RAG%20%26%20Agentic%20Systems%20%7C%20Full-Stack%20AI%20Delivery&descAlignY=52&descAlign=50" width="100%"/>
+
+# Esandu Obadaarachchi
+
+### AI Engineer · RAG & Agentic Systems · Full-Stack AI Delivery
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Esandu_Obadaarachchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/esandumeth)
 [![Email](https://img.shields.io/badge/Email-eobadaarachchi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eobadaarachchi@gmail.com)

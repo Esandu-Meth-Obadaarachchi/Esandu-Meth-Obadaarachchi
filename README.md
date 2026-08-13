@@ -85,13 +85,13 @@ _(Enterprise system, proprietary to SLT Telecom)_
 ### Lune AI — Agentic RAG Second Brain
 Multi-tenant agentic RAG system for project and task management. Models retrieval as a LangGraph state machine: query rewrite, vector search, cross-encoder rerank, relevance grading and retry, with a grounded check to cut hallucination. Two-stage retrieval over Pinecone feeds a Claude ReAct agent with tool-calling access to tasks and knowledge.
 **Stack:** FastAPI, LangChain, LangGraph, Claude, Voyage AI, Pinecone, Docker, AWS ECS Fargate
-**Live at:** [luneai.site](https://luneai.site)
+**Live at:** [luneai.site](https://luneai.site) · **Repo:** [Agentic-Ai-Rag-Chatbot-personal-assistant](https://github.com/Esandu-Meth-Obadaarachchi/Agentic-Ai-Rag-Chatbot-personal-assistant)
 
 ### GreenGuard — AI-Powered Tea Leaf Disease Detection
 _IEEE Published, ICAC 2024_
 CNN and transfer learning model for real-time tea leaf disease classification from mobile camera input, with a React Native frontend for on-device inference and treatment guidance.
 **Stack:** Python, TensorFlow, Keras, CNN, Transfer Learning, React Native
-**Paper:** [ieeexplore.ieee.org/document/10851118](https://ieeexplore.ieee.org/document/10851118)
+**Paper:** [ieeexplore.ieee.org/document/10851118](https://ieeexplore.ieee.org/document/10851118) · **Repo:** [GreenGuard-tea-leaf-disease-detection](https://github.com/DSGPproject/GreenGuard-tea-leaf-disease-detection)
 
 ### SmartSmile — Edge AI Dental Diagnostic App
 Flutter app running YOLOv10 and TensorFlow Lite on-device for dental diagnostics, backed by a full AWS MLOps pipeline for automated retraining and human-in-the-loop annotation on low-confidence predictions.
@@ -102,6 +102,7 @@ _Final Year Thesis Research_
 CT-to-MRI and MRI-to-CT medical image synthesis using FOMAML and CycleGAN, the first integration of the two for this task. Applies coordinate attention to preserve spatial features in generated images.
 **Stack:** Python, TensorFlow, Keras, MAML, CycleGAN, Coordinate Attention
 **Result:** 94.45% structural accuracy from 5 training examples
+**Repo:** [FEW-SHOT-CROSS-MODAL-MEDICAL-IMAGE-TRANSLATION](https://github.com/Esandu-Meth-Obadaarachchi/FEW-SHOT-CROSS-MODAL-MEDICAL-IMAGE-TRANSLATION)
 
 ### AI-Augmented Hotel Management Platform
 Full-stack hotel management system covering bookings, inventory, revenue and staff management, with Gemini API integration for AI-powered expense entry from image and text input.
@@ -117,19 +118,6 @@ Full-stack hotel management system covering bookings, inventory, revenue and sta
 - 🏆 BMPC 2026 — Digital Literacy Cluster Award Winner (SLT PowerZenith)
 - 📄 IEEE Xplore Published — GreenGuard, ICAC 2024
 - 🎓 First Class Honours, BSc (Hons) AI & Data Science
-
----
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Esandu-Meth-Obadaarachchi&show_icons=true&locale=en&theme=default" alt="Esandu's GitHub stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esandu-Meth-Obadaarachchi&show_icons=true&locale=en&layout=compact" alt="Top languages" width="40%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Esandu-Meth-Obadaarachchi" alt="Streak stats"/>
-</div>
 
 ---
 

@@ -1,40 +1,144 @@
-<h1 align="center">Hi 👋, I'm Esandu Obadaarachchi</h1>
-<h3 align="center">A Passionate AI & Data Science Enthuist From Sri Lanka</h3>
-<p align="center">
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esandu-meth-obadaarachchi" alt="esandu-meth-obadaarachchi" /></a> </p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Esandu%20Obadaarachchi&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20RAG%20%26%20Agentic%20Systems%20%7C%20Full-Stack%20AI%20Delivery&descAlignY=52&descAlign=50" width="100%"/>
 
-- 🔭 I’m currently expanding my knowledge on **Deep Learning**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esandu_Obadaarachchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/esandumeth)
+[![Email](https://img.shields.io/badge/Email-eobadaarachchi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eobadaarachchi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-esanduportfolio.netlify.app-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://esanduportfolio.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Esandu-Meth-Obadaarachchi](https://github.com/Esandu-Meth-Obadaarachchi)
+</div>
 
-- 💬 Ask me about **flutter, Java, Python, Ai and Data Science**
+---
 
-- 📫 How to reach me **eobadaarachchi@gmail.com**
+## Profile
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H2WuMKcRClPVcKlOK7-cTcN0K7nHELwA/view?usp=sharing](https://drive.google.com/file/d/1H2WuMKcRClPVcKlOK7-cTcN0K7nHELwA/view?usp=sharing)
+BSc (Hons) AI & Data Science graduate, First Class Honours, from the Informatics Institute of Technology, Sri Lanka, affiliated with Robert Gordon University, Aberdeen. Two years building production AI systems at SLT Telecom, Sri Lanka's national telecom operator, across RAG pipelines, agentic AI workflows and computer vision. IEEE-published researcher.
 
-- ⚡ Fun fact **I think i am funny**
+I build AI systems that clients and companies put into production, not demos. Recent work centres on retrieval-augmented generation, agentic workflows with tool-calling LLMs, and full-stack delivery from model to deployed product.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/esandu-obadaarachchi-732111269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esandu obadaarachchi" height="30" width="40" /></a>
-<a href="https://fb.com/esandu obadaarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="esandu obadaarachchi" height="30" width="40" /></a>
-<a href="https://instagram.com/esandu_obadaarachchi56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esandu obadaarachchi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@esanduobadaarachchi4833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="esandu obadaarachchi" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Where I Add Value
 
+| Focus Area | What I Bring | Evidence |
+|---|---|---|
+| **RAG & Agentic AI Systems** | LangGraph state machines, query rewriting, retrieval grading, tool-calling agents, hallucination reduction through grounded generation | Lune AI, SLT PowerProx AI Assistant |
+| **Computer Vision** | CNN and transfer learning for real-time classification, edge AI deployment, few-shot and meta-learning for low-data domains | GreenGuard (IEEE published), SmartSmile, Medical Image Translation research |
+| **Full-Stack AI Delivery** | Taking a system from model to production: FastAPI/Node backends, React/Flutter frontends, CI/CD, AWS and Azure deployment | SLT PowerProx, SLT PowerZenith, Hotel Odon Management System |
+| **MLOps & Production ML** | XGBoost time-series anomaly detection, automated retraining pipelines, human-in-the-loop annotation, drift monitoring | SLT PowerZenith, SmartSmile AWS backend |
 
+---
 
+## Technical Ecosystem
 
+**AI & LLM Systems**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esandu-meth-obadaarachchi&show_icons=true&locale=en&layout=compact" alt="esandu-meth-obadaarachchi" /></p>
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=ee4c2c)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-1a1a2e?style=for-the-badge&logo=scikitlearn&logoColor=f7931e)
+![XGBoost](https://img.shields.io/badge/XGBoost-1a1a2e?style=for-the-badge&logo=xgboost&logoColor=fff)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=ffbf00)
+![LangChain](https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge&logo=langchain&logoColor=1c3c3c)
+![LangGraph](https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge&logo=langgraph&logoColor=1c3c3c)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esandu-meth-obadaarachchi&show_icons=true&locale=en" alt="esandu-meth-obadaarachchi" /></p>
+**Backend & Data**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esandu-meth-obadaarachchi&" alt="esandu-meth-obadaarachchi" /></p>
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=3776ab)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=6db33f)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=4169e1)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=47a248)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-1a1a2e?style=for-the-badge&logo=influxdb&logoColor=22adf6)
+![Pinecone](https://img.shields.io/badge/Pinecone-1a1a2e?style=for-the-badge&logo=pinecone&logoColor=fff)
 
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-1a1a2e?style=for-the-badge&logo=flutter&logoColor=02569b)
+![React Native](https://img.shields.io/badge/React_Native-1a1a2e?style=for-the-badge&logo=react&logoColor=61dafb)
+
+**Cloud & MLOps**
+
+![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=ff9900)
+![Azure](https://img.shields.io/badge/Azure_ML-1a1a2e?style=for-the-badge&logo=microsoftazure&logoColor=0078d4)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ed)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=2088ff)
+![MLflow](https://img.shields.io/badge/MLflow-1a1a2e?style=for-the-badge&logo=mlflow&logoColor=0194e2)
+
+---
+
+## Featured Work
+
+### SLT PowerProx — Power Infrastructure Platform + RAG Assistant
+Mission-critical platform managing 300+ locations and 12,000+ assets for SLT Telecom's national power infrastructure. Includes a RAG-based agentic AI assistant that guides field engineers through fault troubleshooting and navigation, plus an LLM-driven quotation analyser for cost estimation.
+**Stack:** RAG, Agentic AI, LangGraph, Flutter, FastAPI, MySQL, InfluxDB
+**Result:** 3 national awards — CPM Sri Lanka 2025 (Telecom Category Winner), NPME 2025 Silver Award
+**Role:** AI Intern → Freelance AI Engineer, Project Lead Developer
+_(Enterprise system, proprietary to SLT Telecom — see [portfolio](https://esanduportfolio.netlify.app) for a full write-up)_
+
+### SLT PowerZenith — Real-Time Energy Monitoring
+Live energy consumption dashboard with an XGBoost anomaly detection pipeline using lag features to flag irregular consumption patterns across SLT infrastructure in real time.
+**Stack:** XGBoost, Time-Series Forecasting, React, FastAPI, InfluxDB
+**Result:** BMPC 2026 Digital Literacy Cluster Award Winner
+_(Enterprise system, proprietary to SLT Telecom)_
+
+### Lune AI — Agentic RAG Second Brain
+Multi-tenant agentic RAG system for project and task management. Models retrieval as a LangGraph state machine: query rewrite, vector search, cross-encoder rerank, relevance grading and retry, with a grounded check to cut hallucination. Two-stage retrieval over Pinecone feeds a Claude ReAct agent with tool-calling access to tasks and knowledge.
+**Stack:** FastAPI, LangChain, LangGraph, Claude, Voyage AI, Pinecone, Docker, AWS ECS Fargate
+**Live at:** [luneai.site](https://luneai.site)
+
+### GreenGuard — AI-Powered Tea Leaf Disease Detection
+_IEEE Published, ICAC 2024_
+CNN and transfer learning model for real-time tea leaf disease classification from mobile camera input, with a React Native frontend for on-device inference and treatment guidance.
+**Stack:** Python, TensorFlow, Keras, CNN, Transfer Learning, React Native
+**Paper:** [ieeexplore.ieee.org/document/10851118](https://ieeexplore.ieee.org/document/10851118)
+
+### SmartSmile — Edge AI Dental Diagnostic App
+Flutter app running YOLOv10 and TensorFlow Lite on-device for dental diagnostics, backed by a full AWS MLOps pipeline for automated retraining and human-in-the-loop annotation on low-confidence predictions.
+**Stack:** Flutter, YOLOv10, TensorFlow Lite, AWS (S3, Lambda, SageMaker, Elastic Beanstalk, EventBridge, CloudWatch), Label Studio
+
+### Few-Shot Cross-Modal Medical Image Translation
+_Final Year Thesis Research_
+CT-to-MRI and MRI-to-CT medical image synthesis using FOMAML and CycleGAN, the first integration of the two for this task. Applies coordinate attention to preserve spatial features in generated images.
+**Stack:** Python, TensorFlow, Keras, MAML, CycleGAN, Coordinate Attention
+**Result:** 94.45% structural accuracy from 5 training examples
+
+### AI-Augmented Hotel Management Platform
+Full-stack hotel management system covering bookings, inventory, revenue and staff management, with Gemini API integration for AI-powered expense entry from image and text input.
+**Stack:** Flutter, MongoDB, Node.js, Gemini API
+**Repo:** [Hotel_Odon_Management_System](https://github.com/Esandu-Meth-Obadaarachchi/Hotel_Odon_Management_System)
+
+---
+
+## Recognition
+
+- 🏆 CPM Sri Lanka 2025 — Telecommunications Category Winner, Digital Literacy Cluster (SLT PowerProx)
+- 🥈 NPME 2025 Silver Award — Best Managed Project, Telecom Sector (SLT PowerProx)
+- 🏆 BMPC 2026 — Digital Literacy Cluster Award Winner (SLT PowerZenith)
+- 📄 IEEE Xplore Published — GreenGuard, ICAC 2024
+- 🎓 First Class Honours, BSc (Hons) AI & Data Science
+
+---
+
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Esandu-Meth-Obadaarachchi&show_icons=true&locale=en&theme=default" alt="Esandu's GitHub stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esandu-Meth-Obadaarachchi&show_icons=true&locale=en&layout=compact" alt="Top languages" width="40%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Esandu-Meth-Obadaarachchi" alt="Streak stats"/>
+</div>
+
+---
+
+<div align="center">
+
+### Open to AI Engineer, ML Engineer and Full-Stack AI roles
+
+Based in Colombo, Sri Lanka. Open to remote and on-site opportunities.
+
+[📧 Get in touch](mailto:eobadaarachchi@gmail.com) · [💼 Portfolio](https://esanduportfolio.netlify.app) · [🔗 LinkedIn](https://linkedin.com/in/esandumeth)
+
+</div>
